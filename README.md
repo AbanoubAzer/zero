@@ -99,7 +99,7 @@ Follow these steps to run the FoodTechApp project locally:
 4. Run the command:
 
    ```shell
-   git clone https://github.com/zero.git
+   git clone https://github.com/AbanoubAzer/zero.git
    ```
 
 5. Wait for Git to clone the repository to your machine.
